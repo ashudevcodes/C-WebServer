@@ -11,10 +11,10 @@ This is a minimalist implementation of a web server in C that serves files reque
 
 2. Run the compiled executable:
     ```bash
-    ./WebServer
+    ./C-WebServer
     ```
 
-3. Open a web browser and navigate to `http://localhost:8080/yourfile.html` to retrieve the contents of `yourfile.html`.
+3. Open a web browser and navigate to `http://localhost:8080/index.html` to retrieve the contents of `index.html`.
 
 ## Description
 
